@@ -69,7 +69,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Mobile Development</h3>
-                                        <p>I have expertise in creating beautiful Android applications with fluid designsand cross device compatibility</p>
+                                        <p>I have expertise in creating beautiful Android applications with fluid designs and cross device compatibility</p>
                                     </div>
                                 </div>
                             </div>
