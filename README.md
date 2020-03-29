@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/singh-sarabjeet/me.svg?branch=master)](https://travis-ci.com/singh-sarabjeet/me)
 
 - To run this project follow these steps , 
   - clone the repo using `git clone`
