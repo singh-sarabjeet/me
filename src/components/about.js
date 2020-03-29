@@ -79,7 +79,7 @@ export default class About extends Component {
                                         <i className="icon-data" />
                                     </span>
                                     <div className="desc">
-                                        <h3>Competetive Coding</h3>
+                                        <h3>Competitive Coding</h3>
                                         <p>I regulary code and participate in competitions on websites such as LeetCode, CodeChef and InterviewBit</p>
                                     </div>
                                 </div>

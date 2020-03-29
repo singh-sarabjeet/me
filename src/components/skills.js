@@ -14,7 +14,7 @@ export default class Skills extends Component{
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-                                <p>I've honed a wide variety of skill sets over the duration of my career and below are few of the important one's.</p>
+                                <p>I've honed a wide variety of skill sets over the duration of my career and below are few of the important ones.</p>
                             </div>
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                                 <div className="progress-wrap">

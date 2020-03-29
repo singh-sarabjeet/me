@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Programmer Analyst Trainee an Cognizant Technology Solutions <span>2016-2017</span></h2>
+                        <h2>Programmer Analyst Trainee at Cognizant Technology Solutions <span>2016-2017</span></h2>
                         <p>Worked on SWT/Jface applications along with R&D in algorithm designing to provide viable solutions to client problems. Also worked on projects involving eclipse RCP applications</p>
                       </div>
                     </div>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Graduation <span>2012-2016</span></h2>
-                        <p>I graduated from Galgotias College of Engineering and Technology majoring in Information Technology. During my time in college, I developed interes in solving complex arithmetic and real life problems which led me to pursue a career in Software development after college.</p> 
+                        <p>I graduated from Galgotias College of Engineering and Technology majoring in Information Technology. During my time in college, I developed interest in solving complex arithmetic and real life problems which led me to pursue a career in Software development after college.</p> 
                       </div>
                     </div>
                   </article>
