@@ -11,7 +11,7 @@ export default class About extends Component {
                                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                                     <div className="col-md-12">
                                         <div className="about-desc">
-                                            <span className="heading-meta">About Us</span>
+                                            <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p>Software developer with more than 3 years of experience working primarily with Java Spring Boot, Oracle SQL and JS to provide innovative and efficient solutions for PowerSchool's SIS offering to various US and Canada states and districts creating different flavours of the product according to state mandate. </p>
                                             <p>I love the fact that my work is impacting millions of students and teachers daily, making their lives easier so they can concentrate more on teaching and learning. I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
@@ -69,7 +69,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc">
                                         <h3>Mobile Development</h3>
-                                        <p>I have expertise in creating beautiful Android applications with fluid designs</p>
+                                        <p>I have expertise in creating beautiful Android applications with fluid designsand cross device compatibility</p>
                                     </div>
                                 </div>
                             </div>
