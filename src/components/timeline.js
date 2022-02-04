@@ -15,14 +15,36 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Senior Software Developer at Razorpay <span>2021-present</span></h2>
+                        <p>Working as a backend developer to provide solutions for card payments </p>
+                      </div>
+                    </div>
+                  </article>
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Senior Software Developer at Paytm Money <span>2021-2021</span></h2>
+                        <p>Worked as a backend developer for providing solution for mutual funds and NPS payments </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Backend Developer at PowerSchool India <span>2017-present</span></h2>
-                        <p>I started working in PowerSchool as a Full Stack developer </p>
+                        <h2>Backend Developer at PowerSchool India <span>2017-2021</span></h2>
+                        <p>Worked as a full stack developer to provide solutions for edtech problems </p>
                       </div>
                     </div>
                   </article>
